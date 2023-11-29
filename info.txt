@@ -1,0 +1,2 @@
+cd ip-adres
+python ip=adres.py
